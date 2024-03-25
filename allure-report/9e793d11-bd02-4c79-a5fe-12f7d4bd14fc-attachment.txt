@@ -1,0 +1,3 @@
+[32mINFO    [0m root:test_api.py:84 Starting test_delete_booking
+[35mDEBUG   [0m root:test_api.py:89 Sending request to delete booking
+[32mINFO    [0m root:test_api.py:92 Booking deleted successfully

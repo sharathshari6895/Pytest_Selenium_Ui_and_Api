@@ -1,0 +1,3 @@
+[32mINFO    [0m root:test_api.py:45 Starting test_update_booking
+[32mINFO    [0m root:test_api.py:57 Booking updated successfully
+[32mINFO    [0m root:test_api.py:58 Ending test_update_booking

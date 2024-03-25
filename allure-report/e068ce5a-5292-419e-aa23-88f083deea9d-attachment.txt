@@ -1,0 +1,2 @@
+[32mINFO    [0m root:test_api.py:81 Starting test_delete_booking
+[32mINFO    [0m root:test_api.py:89 Booking deleted successfully

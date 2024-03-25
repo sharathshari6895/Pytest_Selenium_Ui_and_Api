@@ -1,0 +1,6 @@
+[32mINFO    [0m root:configtest.py:129 info started
+[33mWARNING [0m root:configtest.py:130 warn started
+[31m[1mERROR   [0m root:configtest.py:131 error started
+[31mCRITICAL[0m root:configtest.py:132 critical started
+[32mINFO    [0m root:test_api.py:16 Starting test_example
+[32mINFO    [0m root:test_api.py:22 ended test_example

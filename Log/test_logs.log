@@ -1,0 +1,40 @@
+03/25/2024 04:53:10 PM - INFO - root : Starting test_invalid_signin
+03/25/2024 04:53:10 PM - INFO - root : Starting test_invalid_signin
+03/25/2024 04:53:29 PM - INFO - root : Starting test_valid_signin
+03/25/2024 04:53:31 PM - INFO - root : Logging Started
+03/25/2024 04:53:31 PM - INFO - root : Ending test_valid_signin
+03/25/2024 04:53:53 PM - INFO - root : Logging Started
+03/25/2024 04:53:53 PM - INFO - root : Starting test_add_to_cart
+03/25/2024 04:53:55 PM - INFO - root : Adding Product to the cart
+03/25/2024 04:53:56 PM - INFO - root : Checking Product to the cart
+03/25/2024 04:53:56 PM - INFO - root : Ending test_add_to_cart
+03/25/2024 04:54:19 PM - INFO - root : Logging Started
+03/25/2024 04:54:19 PM - INFO - root : Starting test_remove_from_cart
+03/25/2024 04:54:22 PM - INFO - root : Ending test_remove_from_cart
+03/25/2024 04:54:41 PM - INFO - root : Logging Started
+03/25/2024 04:54:41 PM - INFO - root : Starting test_checkout
+03/25/2024 04:54:42 PM - INFO - root : Adding user details for checkout
+03/25/2024 04:54:43 PM - INFO - root : Ending test_checkout
+03/25/2024 04:55:07 PM - INFO - root : Logging Started
+03/25/2024 04:55:07 PM - INFO - root : Starting test_sort_products
+03/25/2024 04:55:07 PM - INFO - root : Comparing Products are sorted as expected
+03/25/2024 04:55:07 PM - INFO - root : Ending test_sort_products
+03/25/2024 04:55:19 PM - INFO - root : Starting test_get_all_bookings
+03/25/2024 04:55:19 PM - DEBUG - root : Fetching bookings from API
+03/25/2024 04:55:21 PM - DEBUG - root : Bookings fetched successfully
+03/25/2024 04:55:21 PM - INFO - root : Ending test_get_all_bookings
+03/25/2024 04:55:28 PM - INFO - root : Starting test_create_booking
+03/25/2024 04:55:28 PM - DEBUG - root : Sending request to create a booking
+03/25/2024 04:55:30 PM - DEBUG - root : Retrieving created booking for validation
+03/25/2024 04:55:33 PM - INFO - root : Ending test_create_booking
+03/25/2024 04:55:37 PM - INFO - root : Starting test_update_booking
+03/25/2024 04:55:37 PM - DEBUG - root : Preparing data for updating booking
+03/25/2024 04:55:39 PM - DEBUG - root : Sending request to update booking
+03/25/2024 04:55:39 PM - INFO - root : Booking updated successfully
+03/25/2024 04:55:39 PM - INFO - root : Ending test_update_booking
+03/25/2024 04:55:44 PM - INFO - root : Starting test_patch_booking
+03/25/2024 04:55:44 PM - DEBUG - root : Sending request to patch booking
+03/25/2024 04:55:46 PM - INFO - root : Booking patched successfully
+03/25/2024 04:55:50 PM - INFO - root : Starting test_delete_booking
+03/25/2024 04:55:50 PM - DEBUG - root : Sending request to delete booking
+03/25/2024 04:55:52 PM - INFO - root : Booking deleted successfully

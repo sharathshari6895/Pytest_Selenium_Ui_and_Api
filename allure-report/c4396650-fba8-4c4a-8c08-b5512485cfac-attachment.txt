@@ -1,0 +1,4 @@
+[32mINFO    [0m root:test_api.py:27 Starting test_create_booking
+[35mDEBUG   [0m root:test_api.py:30 Sending request to create a booking
+[35mDEBUG   [0m root:test_api.py:34 Retrieving created booking for validation
+[32mINFO    [0m root:test_api.py:38 Ending test_create_booking

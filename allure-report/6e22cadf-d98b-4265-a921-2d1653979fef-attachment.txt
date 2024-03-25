@@ -1,0 +1,5 @@
+[32mINFO    [0m root:BaseTest.py:23 Logging Started
+[32mINFO    [0m root:test_cartPage.py:31 Starting test_remove_from_cart
+[32mINFO    [0m root:test_cartPage.py:34 Ending test_remove_from_cart
+[32mINFO    [0m root:test_cartPage.py:38 Ending test_remove_from_cart
+[32mINFO    [0m root:test_cartPage.py:39 Ending test_remove_from_cart

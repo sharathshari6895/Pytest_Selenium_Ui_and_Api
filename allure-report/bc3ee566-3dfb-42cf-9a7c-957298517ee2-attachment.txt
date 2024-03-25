@@ -1,0 +1,5 @@
+[32mINFO    [0m root:BaseTest.py:23 Logging Started
+[32mINFO    [0m root:test_cartPage.py:14 Starting test_add_to_cart
+[32mINFO    [0m root:test_cartPage.py:19 Adding Product to the cart
+[32mINFO    [0m root:test_cartPage.py:22 Checking Product to the cart
+[32mINFO    [0m root:test_cartPage.py:26 Ending test_add_to_cart

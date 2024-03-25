@@ -1,0 +1,3 @@
+[32mINFO    [0m root:test_api.py:67 Starting test_patch_booking
+[35mDEBUG   [0m root:test_api.py:73 Sending request to patch booking
+[32mINFO    [0m root:test_api.py:76 Booking patched successfully

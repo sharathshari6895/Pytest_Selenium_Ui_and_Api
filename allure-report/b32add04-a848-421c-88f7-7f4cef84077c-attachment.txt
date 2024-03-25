@@ -1,0 +1,4 @@
+[32mINFO    [0m root:test_login.py:30 Starting test_valid_signin
+[32mINFO    [0m root:test_login.py:31 Starting test_valid_signin
+[32mINFO    [0m root:BaseTest.py:23 Logging Started
+[32mINFO    [0m root:test_login.py:34 Ending test_valid_signin

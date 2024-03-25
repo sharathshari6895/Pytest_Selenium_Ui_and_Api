@@ -1,0 +1,1 @@
+{"name": "test_invalid_signin[chrome]", "status": "skipped", "parameters": [{"name": "init_driver", "value": "'chrome'"}], "start": 1711349935563, "stop": 1711349935563, "uuid": "855f4901-021c-4cdd-bf76-7133fa249df0", "testCaseId": "90c419ecd44cf37f23b8e4c83ba7b410", "fullName": "Tests.UI_Test.test_login.TestLogin#test_invalid_signin"}

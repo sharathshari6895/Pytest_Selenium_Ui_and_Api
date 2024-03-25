@@ -1,0 +1,5 @@
+[32mINFO    [0m root:test_api.py:45 Starting test_update_booking
+[35mDEBUG   [0m root:test_api.py:51 Preparing data for updating booking
+[35mDEBUG   [0m root:test_api.py:53 Sending request to update booking
+[32mINFO    [0m root:test_api.py:57 Booking updated successfully
+[32mINFO    [0m root:test_api.py:58 Ending test_update_booking

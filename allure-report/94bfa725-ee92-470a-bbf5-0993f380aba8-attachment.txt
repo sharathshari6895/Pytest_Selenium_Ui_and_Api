@@ -1,0 +1,11 @@
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:1052 Starting new HTTPS connection (1): restful-booker.herokuapp.com:443
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:546 https://restful-booker.herokuapp.com:443 "POST /auth HTTP/1.1" 200 27
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:1052 Starting new HTTPS connection (1): restful-booker.herokuapp.com:443
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:546 https://restful-booker.herokuapp.com:443 "POST /booking HTTP/1.1" 200 199
+[32mINFO    [0m root:test_api.py:45 Starting test_update_booking
+[35mDEBUG   [0m root:test_api.py:51 Preparing data for updating booking
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:1052 Starting new HTTPS connection (1): restful-booker.herokuapp.com:443
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:546 https://restful-booker.herokuapp.com:443 "PUT /booking/232 HTTP/1.1" 200 167
+[35mDEBUG   [0m root:test_api.py:53 Sending request to update booking
+[32mINFO    [0m root:test_api.py:57 Booking updated successfully
+[32mINFO    [0m root:test_api.py:58 Ending test_update_booking

@@ -1,0 +1,1 @@
+SRetrieving created booking for validation

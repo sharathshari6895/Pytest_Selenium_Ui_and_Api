@@ -1,0 +1,17 @@
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:244 Starting new HTTP connection (1): localhost:54372
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:546 http://localhost:54372 "POST /session HTTP/1.1" 200 0
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:546 http://localhost:54372 "POST /session/e923bc500436ca274566d7676a557fd3/window/maximize HTTP/1.1" 200 0
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:546 http://localhost:54372 "POST /session/e923bc500436ca274566d7676a557fd3/url HTTP/1.1" 200 0
+[32mINFO    [0m root:test_login.py:29 Starting test_valid_signin
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:546 http://localhost:54372 "POST /session/e923bc500436ca274566d7676a557fd3/element HTTP/1.1" 200 0
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:546 http://localhost:54372 "POST /session/e923bc500436ca274566d7676a557fd3/execute/sync HTTP/1.1" 200 0
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:546 http://localhost:54372 "POST /session/e923bc500436ca274566d7676a557fd3/element/f.ECFC58A5ABB1B075018CCC3BAA643248.d.3259DAB1862506EBA170E7460D53377E.e.3/value HTTP/1.1" 200 0
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:546 http://localhost:54372 "POST /session/e923bc500436ca274566d7676a557fd3/element HTTP/1.1" 200 0
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:546 http://localhost:54372 "POST /session/e923bc500436ca274566d7676a557fd3/execute/sync HTTP/1.1" 200 0
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:546 http://localhost:54372 "POST /session/e923bc500436ca274566d7676a557fd3/element/f.ECFC58A5ABB1B075018CCC3BAA643248.d.3259DAB1862506EBA170E7460D53377E.e.4/value HTTP/1.1" 200 0
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:546 http://localhost:54372 "POST /session/e923bc500436ca274566d7676a557fd3/element HTTP/1.1" 200 0
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:546 http://localhost:54372 "POST /session/e923bc500436ca274566d7676a557fd3/execute/sync HTTP/1.1" 200 0
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:546 http://localhost:54372 "POST /session/e923bc500436ca274566d7676a557fd3/element/f.ECFC58A5ABB1B075018CCC3BAA643248.d.3259DAB1862506EBA170E7460D53377E.e.5/click HTTP/1.1" 200 0
+[32mINFO    [0m root:BaseTest.py:23 Logging Started
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:546 http://localhost:54372 "GET /session/e923bc500436ca274566d7676a557fd3/url HTTP/1.1" 200 0
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:546 http://localhost:54372 "DELETE /session/e923bc500436ca274566d7676a557fd3 HTTP/1.1" 200 0

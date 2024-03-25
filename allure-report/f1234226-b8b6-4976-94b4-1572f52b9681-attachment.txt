@@ -1,0 +1,4 @@
+[32mINFO    [0m root:BaseTest.py:23 Logging Started
+[32mINFO    [0m root:test_checkout.py:15 Starting test_checkout
+[32mINFO    [0m root:test_checkout.py:20 Adding user details for checkout
+[32mINFO    [0m root:test_checkout.py:25 Ending test_checkout

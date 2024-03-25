@@ -1,0 +1,4 @@
+[32mINFO    [0m root:BaseTest.py:23 Logging Started
+[32mINFO    [0m root:test_checkout.py:36 Starting test_sort_products
+[32mINFO    [0m root:test_checkout.py:39 Comparing Products are sorted as expected
+[32mINFO    [0m root:test_checkout.py:42 Ending test_sort_products

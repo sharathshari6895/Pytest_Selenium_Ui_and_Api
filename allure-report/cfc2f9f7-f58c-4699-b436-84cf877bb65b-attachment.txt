@@ -1,0 +1,2 @@
+[32mINFO    [0m root:test_api.py:27 Starting test_create_booking
+[32mINFO    [0m root:test_api.py:38 Ending test_create_booking

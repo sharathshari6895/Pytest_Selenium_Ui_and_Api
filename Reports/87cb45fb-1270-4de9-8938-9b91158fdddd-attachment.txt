@@ -1,0 +1,4 @@
+[32mINFO    [0m BaseTest:configtest.py:96 info started
+[33mWARNING [0m BaseTest:configtest.py:97 warn started
+[31m[1mERROR   [0m BaseTest:configtest.py:98 error started
+[31mCRITICAL[0m BaseTest:configtest.py:99 critical started
